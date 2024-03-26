@@ -1,0 +1,60 @@
+{
+  "cep": "89218-112",
+  "logradouro": "Rua Dona Francisca",
+  "complemento": "de 4524/4525 a 5420/5421",
+  "bairro": "Santo Antônio",
+  "localidade": "Joinville",
+  "uf": "SC",
+  "ibge": "4209102",
+  "gia": "",
+  "ddd": "47",
+  "siafi": "8179"
+}
+{
+  "cep": "89218-112",
+  "logradouro": "Rua Dona Francisca",
+  "complemento": "de 4524/4525 a 5420/5421",
+  "bairro": "Santo Antônio",
+  "localidade": "Joinville",
+  "uf": "SC",
+  "ibge": "4209102",
+  "gia": "",
+  "ddd": "47",
+  "siafi": "8179"
+}
+{
+  "cep": "91040-000",
+  "logradouro": "Rua Domingos Rubbo",
+  "complemento": "",
+  "bairro": "Cristo Redentor",
+  "localidade": "Porto Alegre",
+  "uf": "RS",
+  "ibge": "4314902",
+  "gia": "",
+  "ddd": "51",
+  "siafi": "8801"
+}
+{
+  "cep": "90650-090",
+  "logradouro": "Rua Domingos Crescêncio",
+  "complemento": "",
+  "bairro": "Santana",
+  "localidade": "Porto Alegre",
+  "uf": "RS",
+  "ibge": "4314902",
+  "gia": "",
+  "ddd": "51",
+  "siafi": "8801"
+}
+{
+  "cep": "91790-101",
+  "logradouro": "Rua Domingos Manoel Mincarone",
+  "complemento": "",
+  "bairro": "Restinga",
+  "localidade": "Porto Alegre",
+  "uf": "RS",
+  "ibge": "4314902",
+  "gia": "",
+  "ddd": "51",
+  "siafi": "8801"
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta de Endereço por CEP</title>
+</head>
+<body>
+    <h1>Consulta de Endereço por CEP</h1>
+    <form id="cepForm" method="POST" action="consultar_cep.php">
+        <label for="cep">CEP:</label>
+        <input type="text" id="cep" name="cep" required>
+        <button type="submit">Consultar</button>
+    </form>
+    
+    <h2>Registros de Endereço Consultados:</h2>
+    <ul id="registros">
+    </ul>
+    
+    <script>
+        fetch("consultar_cep.php")
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById("registros").innerHTML = data;
+            });
+    </script>
+</body>
+</html>
